@@ -9,10 +9,10 @@
 </head>
 <body>
     <nav>
-        <a href="lesson2.php">Урок 2</a>
-        <a href="lesson3.php">Урок 3</a>
-        <a href="lesson4.php">Урок 4</a>
-        <a href="lesson5.php">Урок 5</a>
+        <a href="less2/lesson2.php">Урок 2</a>
+        <a href="#">Урок 3</a>
+        <a href="#">Урок 4</a>
+        <a href="#">Урок 5</a>
     </nav>
     <?php
 
